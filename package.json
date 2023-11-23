@@ -1,0 +1,16 @@
+{
+    "name": "CA info json server",
+    "description": "CA Info json server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "cors": "^2.8.5",
+        "json-serve": "^0.1.0"
+    },
+    "keywords": [],
+    "author": "CA task"
+}
